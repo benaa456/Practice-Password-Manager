@@ -1,4 +1,4 @@
-# Practice-Password-Manager
+# Java Practice-Password-Manager
 
 # Checks if the username and password are correct
 ![Alt text](AppImages/LoginForm.PNG)
