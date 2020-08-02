@@ -7,5 +7,5 @@
 ![Alt text](AppImages/MainPage.PNG)
 # Adds a field to the rable and file
 ![Alt text](AppImages/add.PNG)
-# Removes from the table
+# Removes from the table with Remove button
 ![Alt text](AppImages/remove.PNG)
